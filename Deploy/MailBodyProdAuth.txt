@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------------------------------------------------------------
+Completed: Prod- Auth Build & Deploy !
+---------------------------------------------------------------------------------------------------------------------------------
+
+Backup of build package is taken in ==> /opt/IBM/wcdeploy/backup/ with the time stamp.
+Deleted build packages that are older than 30 days. Details can be found in ==> /home/wasuser/autoDeploy/deletedfiles.log
+
+Logs of the automated builds ==> /home/wasuser/autoDeploy/deployLogs
+History of the Automated deploys ==> /home/wasuser/autoDeploy/automatedDeployHistory.log 
+
+PS. Load store URLs, if they are up and running, Deploy must have completed successfully, check Logs if confirmation needed.
+This is a system generated mail, please do not reply.
+
+---------------------------------------------------------------------------------------------------------------------------------
+Contact Akshay for Help !
+---------------------------------------------------------------------------------------------------------------------------------
